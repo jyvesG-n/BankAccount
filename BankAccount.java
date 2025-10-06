@@ -61,7 +61,7 @@ public class BankAccount {
                     break;
                 case 4:
                     running = false;
-                    System.out.println("Thank you for using Bank Royal!");
+                    System.out.println("Thank you for using Bank !");
                     break;
                 default:
                     System.out.println("Invalid choice, please try again.");
